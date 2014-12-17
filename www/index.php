@@ -8,3 +8,4 @@
 //
 echo "Привет мир";
 echo "fwoifsdjbkldo!";
+echo 'sfjiivewf';
