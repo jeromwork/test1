@@ -1,4 +1,4 @@
-#/wp_content/*
-#!/wp_content/p/
+/wp_content/*
+!/wp_content/p/
 #.vscode
-*.php
+#*.php
