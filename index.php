@@ -1,5 +1,5 @@
 <?php
-echo "8";
+echo "9";
 phpinfo();
 $f = 5;
 $hhg = $f+6;
