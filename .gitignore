@@ -1,4 +1,5 @@
-wp_content/
+#wp_content/*
+/*
 !wp_content/p/
 .vscode
 .gitignore
